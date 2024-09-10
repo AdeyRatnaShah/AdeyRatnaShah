@@ -1,4 +1,4 @@
-![MasterHead](https://developers.giphy.com/branch/master/static/why_4-dbf60f160acb0c6f22c6260bd3a8c6b5.gif)
+
 <h1 align="center">Hi 👋, I'm Adey Ratna Shah</h1>
 <h3 align="center">Aspiring AI/ML Engineer, insatiably curious and an avid learner</h3>
 
