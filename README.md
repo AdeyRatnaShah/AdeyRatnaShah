@@ -1,7 +1,7 @@
 ![MasterHead](https://developers.giphy.com/branch/master/static/why_4-dbf60f160acb0c6f22c6260bd3a8c6b5.gif)
 <h1 align="center">Hi 👋, I'm Adey Ratna Shah</h1>
 <h3 align="center">Aspiring AI/ML Engineer, insatiably curious and an avid learner</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adeyratnashah&label=Profile%20views&color=0e75b6&style=flat" alt="adeyratnashah" /> </p>
 
