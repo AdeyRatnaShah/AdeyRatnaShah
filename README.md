@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **ashah3f@gmail.com**
 
-- 📄 Know about my experiences [https://cv-adeyratnashah.tiiny.site](https://cv-adeyratnashah.tiiny.site)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
